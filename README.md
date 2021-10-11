@@ -4,8 +4,7 @@
 
 ## Description
 
-Example NestJS repository with additional functionalities. Based on typescript-starter repository provided by NestJS team.
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Example NestJS repository with additional functionalities. Based on typescript-starter repository provided by NestJS ([Nest](https://github.com/nestjs/nest)) team.
 
 ## Installation
 
